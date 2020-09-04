@@ -36,7 +36,7 @@
     "babel-runtime": "^6.25.0",
     "cube-ui": "^1.12.30",
     "loadash": "^1.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.3.1",
     "vconsole": "^3.3.4",
     "vue": "^2.5.0",
